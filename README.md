@@ -4,6 +4,14 @@ This is a prototype made for a potential start-up of an e-commerce platform that
 
 ![Karvat](images/showcase.png)
 
+# Technologies Used
+
+- **Frontend**: React.js, Tailwind CSS
+- **Backend**: Flask
+- **Database**: SQLite
+- **E-Commerce**: Razorpay
+- **Data Visualization**: D3.js
+
 ### Requirements:
 
 npm is required to run the frontend. You can install it using the following command:
