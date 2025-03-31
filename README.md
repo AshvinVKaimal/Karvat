@@ -2,6 +2,8 @@
 
 This is a prototype made for a potential start-up of an e-commerce platform that introduces and connects users to regional markets of India, providing unique traditional and cultural products normally only found in local markets to everyone, anytime and anywhere.
 
+![Karvat](images/showcase.png)
+
 ### Requirements:
 
 npm is required to run the frontend. You can install it using the following command:
